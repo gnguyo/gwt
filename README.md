@@ -25,7 +25,7 @@ Clone the repository and source the script in your shell configuration:
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/gwt.git ~/.gwt
+git clone https://github.com/gnguyo/gwt.git ~/.gwt
 
 # Add to ~/.bashrc or ~/.zshrc
 source ~/.gwt/gwt.sh
@@ -34,7 +34,7 @@ source ~/.gwt/gwt.sh
 Or download just the script:
 
 ```bash
-curl -o ~/.gwt.sh https://raw.githubusercontent.com/yourusername/gwt/main/gwt.sh
+curl -o ~/.gwt.sh https://raw.githubusercontent.com/gnguyo/gwt/main/gwt.sh
 echo 'source ~/.gwt.sh' >> ~/.bashrc
 ```
 
